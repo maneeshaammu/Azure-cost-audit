@@ -129,7 +129,7 @@ Found a resource type that should be checked? Open an issue or submit a PR. All 
 
 ## Author
 
-**Maneesha TC** — Cloud Infrastructure Engineer | Azure | PowerShell | ITIL 4  
+**Maneesha TC** — Cloud Infrastructure Engineer  
 [LinkedIn](https://linkedin.com/in/maneesha-t-c-23b0b11a1) · [GitHub](https://github.com/yourusername)
 
 ---
